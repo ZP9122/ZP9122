@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **zmp9122@gmail.com**
 
-- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1JEHao0q0S7TueBcKfQrATjxQzdJZFr0_/view?usp=drive_link)
+- 📄 Know about my experiences: [RESUME]((https://drive.google.com/file/d/1bwoOYKUuRrabOfeNvT4xhiMvTMhB9tXQ/view?usp=drive_link))
 
 
 <h3 align="left">Connect with me:</h3>
