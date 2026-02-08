@@ -1,13 +1,15 @@
 
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://github.com/Harsh-M-Prajapati/Harsh-M-Prajapati)
-<h1 align="center">Hi 👋, I'm Zeel – A Tech Enthusiast Bridging Design & Support!  </h1>
-<h3 align="center">I'm an IT Engineer with a strong foundation in UI/UX Design & Front-End Development 🖌️💻. Currently, I’m working as a Technical Support Executive, where I use JIRA Service Management to assist users and troubleshoot technical issues. My experience allows me to work both in technical and non-technical roles, making me adaptable in diverse environments.</h3>
+<h1 align="center">Hi 👋, I'm Zeel – Bridging Product Data & Workflow Optimization with User Support </h1>
+<h3 align="center">I’m currently a Technical Analyst at Simprosys InfoMedia, where I analyze product feeds, catalog data, and platform integrations across Shopify and Google Merchant Center. I focus on identifying issues, performing root-cause analysis, and delivering data-driven insights to optimize product performance and improve user experience. </h3>
 
-- 🔭 I’m currently working on **improving my Front-End Development & UI/UX Designing kills, because I believe there is no stop to learning**
+<h3> My work combines product analysis, workflow optimization, and data visualization, enabling me to translate complex data into actionable recommendations. </h3>
+
+- 🔭 I’m currently focused on **strengthening my product analytics, data visualization, and UI/UX design skills** to contribute to impactful product decisions.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZP9122](https://github.com/ZP9122)
 
-- 💬 Ask me about: **UI/UX Designing, Front-End Development, Technical Support Tools**
+- 💬 Ask me about: ** Product Analytics, Workflow Optimization, UI/UX Design, Front-End Development**
 
 - 📫 You can reach me at **zmp9122@gmail.com**
 
